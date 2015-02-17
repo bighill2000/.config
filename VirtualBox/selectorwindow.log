@@ -1,0 +1,53 @@
+VirtualBox GUI VM Selector Window 4.3.20_OSE r96996 linux.amd64 (Dec 14 2014 21:51:18) release log
+00:00:01.755284 Log opened 2015-01-02T06:04:33.919863000Z
+00:00:01.755286 Build Type: release
+00:00:01.755289 OS Product: Linux
+00:00:01.755290 OS Release: 3.17.6-1-ARCH
+00:00:01.755291 OS Version: #1 SMP PREEMPT Sun Dec 7 23:43:32 UTC 2014
+00:00:01.755316 DMI Product Name: Presario CQ62 Notebook PC
+00:00:01.755325 DMI Product Version: 0498100000242810000020000
+00:00:01.755460 Host RAM: 2757MB total, 1826MB available
+00:00:01.755463 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:01.755464 Process ID: 3702
+00:00:01.755465 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:01.767612 UIMediumEnumerator: Medium-enumeration started...
+00:00:02.152305 UIMediumEnumerator: Medium-enumeration finished!
+00:04:07.202576 UIMediumEnumerator: Machine (or snapshot) event received, ID = 0e17de0d-1409-434b-8358-1c9478fe6419
+00:04:07.202737 UIMediumEnumerator:  Old usage: 72a23022-8f73-4ad8-ab75-48a85da23b60, 97204fba-4524-437c-9ae8-68354c90a2a8
+00:04:07.204038 UIMediumEnumerator:  New usage: 97204fba-4524-437c-9ae8-68354c90a2a8, 72a23022-8f73-4ad8-ab75-48a85da23b60
+00:04:07.204064 UIMediumEnumerator: Machine (or snapshot) event processed, ID = 0e17de0d-1409-434b-8358-1c9478fe6419
+00:06:15.388969 2D support test succeeded
+00:06:15.396897 UIMediumEnumerator: Medium-enumeration started...
+00:06:15.529476 UIMediumEnumerator: Medium-enumeration finished!
+00:06:37.895995 UIMediumEnumerator: Machine (or snapshot) event received, ID = 0e17de0d-1409-434b-8358-1c9478fe6419
+00:06:37.896059 UIMediumEnumerator:  Old usage: 72a23022-8f73-4ad8-ab75-48a85da23b60, 97204fba-4524-437c-9ae8-68354c90a2a8
+00:06:37.898246 UIMediumEnumerator:  New usage: 97204fba-4524-437c-9ae8-68354c90a2a8, 72a23022-8f73-4ad8-ab75-48a85da23b60
+00:06:37.898289 UIMediumEnumerator: Machine (or snapshot) event processed, ID = 0e17de0d-1409-434b-8358-1c9478fe6419
+00:10:49.162957 UIMediumEnumerator: Machine (or snapshot) event received, ID = 0e17de0d-1409-434b-8358-1c9478fe6419
+00:10:49.163030 UIMediumEnumerator:  Old usage: 72a23022-8f73-4ad8-ab75-48a85da23b60, 97204fba-4524-437c-9ae8-68354c90a2a8
+00:10:49.164770 UIMediumEnumerator:  New usage: 97204fba-4524-437c-9ae8-68354c90a2a8, 72a23022-8f73-4ad8-ab75-48a85da23b60
+00:10:49.164814 UIMediumEnumerator: Machine (or snapshot) event processed, ID = 0e17de0d-1409-434b-8358-1c9478fe6419
+00:11:51.857805 UIMediumEnumerator: Machine (or snapshot) event received, ID = 0e17de0d-1409-434b-8358-1c9478fe6419
+00:11:51.857894 UIMediumEnumerator:  Old usage: 72a23022-8f73-4ad8-ab75-48a85da23b60, 97204fba-4524-437c-9ae8-68354c90a2a8
+00:11:51.859937 UIMediumEnumerator:  New usage: 97204fba-4524-437c-9ae8-68354c90a2a8, 72a23022-8f73-4ad8-ab75-48a85da23b60
+00:11:51.859982 UIMediumEnumerator: Machine (or snapshot) event processed, ID = 0e17de0d-1409-434b-8358-1c9478fe6419
+00:12:17.664896 UIMediumEnumerator: Machine (or snapshot) event received, ID = 0e17de0d-1409-434b-8358-1c9478fe6419
+00:12:17.665001 UIMediumEnumerator:  Old usage: 72a23022-8f73-4ad8-ab75-48a85da23b60, 97204fba-4524-437c-9ae8-68354c90a2a8
+00:12:17.668200 UIMediumEnumerator:  New usage: 97204fba-4524-437c-9ae8-68354c90a2a8, 72a23022-8f73-4ad8-ab75-48a85da23b60
+00:12:17.668235 UIMediumEnumerator: Machine (or snapshot) event processed, ID = 0e17de0d-1409-434b-8358-1c9478fe6419
+00:12:22.663412 UIMediumEnumerator: Machine (or snapshot) event received, ID = 0e17de0d-1409-434b-8358-1c9478fe6419
+00:12:22.663525 UIMediumEnumerator:  Old usage: 72a23022-8f73-4ad8-ab75-48a85da23b60, 97204fba-4524-437c-9ae8-68354c90a2a8
+00:12:22.665258 UIMediumEnumerator:  New usage: 97204fba-4524-437c-9ae8-68354c90a2a8, 72a23022-8f73-4ad8-ab75-48a85da23b60
+00:12:22.665303 UIMediumEnumerator: Machine (or snapshot) event processed, ID = 0e17de0d-1409-434b-8358-1c9478fe6419
+00:12:37.851313 UIMediumEnumerator: Machine (or snapshot) event received, ID = 0e17de0d-1409-434b-8358-1c9478fe6419
+00:12:37.851393 UIMediumEnumerator:  Old usage: 72a23022-8f73-4ad8-ab75-48a85da23b60, 97204fba-4524-437c-9ae8-68354c90a2a8
+00:12:37.853737 UIMediumEnumerator:  New usage: 97204fba-4524-437c-9ae8-68354c90a2a8, 72a23022-8f73-4ad8-ab75-48a85da23b60
+00:12:37.853823 UIMediumEnumerator: Machine (or snapshot) event processed, ID = 0e17de0d-1409-434b-8358-1c9478fe6419
+00:13:29.752000 UIMediumEnumerator: Machine (or snapshot) event received, ID = 0e17de0d-1409-434b-8358-1c9478fe6419
+00:13:29.752082 UIMediumEnumerator:  Old usage: 72a23022-8f73-4ad8-ab75-48a85da23b60, 97204fba-4524-437c-9ae8-68354c90a2a8
+00:13:29.753919 UIMediumEnumerator:  New usage: 97204fba-4524-437c-9ae8-68354c90a2a8, 72a23022-8f73-4ad8-ab75-48a85da23b60
+00:13:29.753962 UIMediumEnumerator: Machine (or snapshot) event processed, ID = 0e17de0d-1409-434b-8358-1c9478fe6419
+00:13:36.109305 UIMediumEnumerator: Machine (or snapshot) event received, ID = 0e17de0d-1409-434b-8358-1c9478fe6419
+00:13:36.109362 UIMediumEnumerator:  Old usage: 72a23022-8f73-4ad8-ab75-48a85da23b60, 97204fba-4524-437c-9ae8-68354c90a2a8
+00:13:36.111125 UIMediumEnumerator:  New usage: 97204fba-4524-437c-9ae8-68354c90a2a8, 72a23022-8f73-4ad8-ab75-48a85da23b60
+00:13:36.111169 UIMediumEnumerator: Machine (or snapshot) event processed, ID = 0e17de0d-1409-434b-8358-1c9478fe6419

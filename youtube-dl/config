@@ -1,0 +1,3 @@
+--output "~/videos/%(title)s.%(ext)s"
+--prefer-ffmpeg
+--batch-file "/home/mrglass/download-list"

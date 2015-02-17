@@ -1,0 +1,13 @@
+{"key":"showAdvancedSettings","value":true,"_id":"1hxgluLtlfqZaxCf"}
+{"key":"ipAddress","value":"192.168.0.101","_id":"AHKGsXNTqZoTH9XN"}
+{"key":"disclaimerAccepted","value":1,"_id":"GL31iKVaWhdHtKa7"}
+{"key":"os","value":"linux","_id":"LLlRbhrRIfD7ZkRP"}
+{"key":"releaseName","value":"We're snowed in (Hotfix 2)","_id":"S6zZWowSVQu3DKjm"}
+{"key":"version","value":"0.3.5-2","_id":"WfKsBEfJq0CbkfJU"}
+{"key":"arch","value":"x64","_id":"aOag6AKZkTG2vHdn"}
+{"$$indexCreated":{"fieldName":"key","unique":true,"sparse":false}}
+{"key":"version","value":"0.3.5-2","_id":"WfKsBEfJq0CbkfJU"}
+{"key":"releaseName","value":"We're snowed in (Hotfix 2)","_id":"S6zZWowSVQu3DKjm"}
+{"key":"arch","value":"x64","_id":"aOag6AKZkTG2vHdn"}
+{"key":"os","value":"linux","_id":"LLlRbhrRIfD7ZkRP"}
+{"key":"ipAddress","value":"192.168.1.101","_id":"AHKGsXNTqZoTH9XN"}

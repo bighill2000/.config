@@ -1,0 +1,478 @@
+{
+   "1pApplyChanges": {
+      "description": "English: Apply changes",
+      "message": "Приложи промените"
+   },
+   "1pExport": {
+      "description": "English: Export",
+      "message": "Експортиране"
+   },
+   "1pExportFilename": {
+      "description": "English: my-ublock-static-filters_{{datetime}}.txt",
+      "message": "моите-ublock-статични-филтри_{{datetime}}.txt"
+   },
+   "1pFormatHint": {
+      "description": "English: One filter per line. A filter can be a plain hostname, or an Adblock Plus-compatible filter. Lines prefixed with &lsquo;!&rsquo; will be ignored.",
+      "message": "По един филтър на ред. Филтър може да бъде обикновен хост или съвместими с Adblock Plus филтър. Линии с представка &lsquo;!&rsquo; ще бъдат игнорирани."
+   },
+   "1pImport": {
+      "description": "English: Import and append",
+      "message": "Импортиране и добавяне"
+   },
+   "1pPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Твоите филтри"
+   },
+   "3pApplyChanges": {
+      "description": "English: Apply changes",
+      "message": "Приложи промените"
+   },
+   "3pAutoUpdatePrompt1": {
+      "description": "English: Auto-update filter lists.",
+      "message": "Автоматично актуализиране на списъците с филтри."
+   },
+   "3pExternalListNew": {
+      "description": "English: new version available",
+      "message": "има нова версия"
+   },
+   "3pExternalListObsolete": {
+      "description": "English: outdated",
+      "message": "остарял"
+   },
+   "3pExternalListPurge": {
+      "description": "English: purge cache",
+      "message": "Изчисти кеша"
+   },
+   "3pExternalListsApply": {
+      "description": "English: Parse",
+      "message": "Разбор"
+   },
+   "3pExternalListsHint": {
+      "description": "English: One URL per line. Lines prefixed with &lsquo;!&rsquo; will be ignored. Invalid URLs will be silently ignored.",
+      "message": "По един адрес на ред. Линии с представка &lsquo;!&rsquo; ще бъдат игнорирани. Невалидните адреси ще бъдат просто игнорирани."
+   },
+   "3pGroupAds": {
+      "description": "English: Ads",
+      "message": "Реклами"
+   },
+   "3pGroupCustom": {
+      "description": "English: Custom",
+      "message": "Лични промени"
+   },
+   "3pGroupMalware": {
+      "description": "English: Malware domains",
+      "message": "Домейни със злонамерен софтуер"
+   },
+   "3pGroupMultipurpose": {
+      "description": "English: Multipurpose",
+      "message": "Универсален"
+   },
+   "3pGroupPrivacy": {
+      "description": "English: Privacy",
+      "message": "Поверителност"
+   },
+   "3pGroupRegions": {
+      "description": "English: Regions, languages",
+      "message": "Региони, езици"
+   },
+   "3pGroupSocial": {
+      "description": "English: Social",
+      "message": "Социални мрежи"
+   },
+   "3pListsOfBlockedHostsHeader": {
+      "description": "English: Lists of blocked hosts",
+      "message": "Списъци на блокираните хостове"
+   },
+   "3pListsOfBlockedHostsPerListStats": {
+      "description": "English: {{used}} used out of {{total}}",
+      "message": "{{used}} използвани от общо {{total}}"
+   },
+   "3pListsOfBlockedHostsPrompt": {
+      "description": "English: {{netFilterCount}} network filters ＋ {{cosmeticFilterCount}} cosmetic filters from:",
+      "message": "{{netFilterCount}} мрежови филтри ＋ {{cosmeticFilterCount}} козметични филтри от:"
+   },
+   "3pPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Филтри от други хора"
+   },
+   "3pParseAllABPHideFiltersInfo": {
+      "description": "English: see English messages.json",
+      "message": "\u003Cp>Тази опция дава възможност за анализиране и прилагане на \u003Ca href=\"https://adblockplus.org/en/faq_internal#elemhide\"> Adblock  Plus-съвместими филтри за  &ldquo;скриване на елементи&rdquo;\u003C/a>. Тези филтри са по същество козметични, те служат за скриване на елементи в web страница, които се считат за визуална неприятно и които не могат да бъдат блокирани от системата за блокиране на мрежови заявки.\u003C/p>\u003Cp>Активирането на тази функция увеличава паметта, която  \u003Ci>µBlock\u003C/i> използва.\u003C/p>"
+   },
+   "3pParseAllABPHideFiltersPrompt1": {
+      "description": "English: Parse and enforce Adblock+ element hiding filters.",
+      "message": "Анализирай и приложи козметичните филтри."
+   },
+   "3pPurgeAll": {
+      "description": "English: Purge all caches",
+      "message": "Изчисти всички кешове"
+   },
+   "3pUpdateNow": {
+      "description": "English: Update now",
+      "message": "Актуализирай"
+   },
+   "aboutBackupDataButton": {
+      "description": "English: Backup to file",
+      "message": "Архивиране към файл"
+   },
+   "aboutBackupFilename": {
+      "description": "English: my-ublock-backup_{{datetime}}.txt",
+      "message": "my-ublock-backup_{{datetime}}.txt"
+   },
+   "aboutChangelog": {
+      "description": "English: Change log",
+      "message": "Списък с промени"
+   },
+   "aboutCode": {
+      "description": "English: Source code (GPLv3)",
+      "message": "Изходен код (GPLv3)"
+   },
+   "aboutContributors": {
+      "description": "English: Contributors",
+      "message": "Спомогнали за проекта"
+   },
+   "aboutPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "За блокера"
+   },
+   "aboutResetDataButton": {
+      "description": "English: Reset to default settings...",
+      "message": "Начално състояние на настройките по подразбиране..."
+   },
+   "aboutResetDataConfirm": {
+      "description": "Message asking user to confirm reset",
+      "message": "Всички ваши настройки ще бъдат премахнати, и µBlock ще се рестартира.  Върни фабричните настройки на µBlock?"
+   },
+   "aboutRestoreDataButton": {
+      "description": "English: Restore from file...",
+      "message": "Възстановяване от файл..."
+   },
+   "aboutRestoreDataConfirm": {
+      "description": "Message asking user to confirm restore",
+      "message": "Всички ваши настройки ще бъдат заместени с помощта на данни, записани на {{time}}, и µBlock ще се рестартира.  Презаписване на всички съществуващи настройки използвайки архивирани данни?"
+   },
+   "aboutRestoreDataError": {
+      "description": "Message to display when an error occurred during restore",
+      "message": "Данните не могат да бъдат прочетени или са невалидни"
+   },
+   "aboutWiki": {
+      "description": "English: project' wiki on Github",
+      "message": "Уики"
+   },
+   "dashboardName": {
+      "description": "English: µBlock — Dashboard",
+      "message": "µBlock — Табло"
+   },
+   "dummy": {
+      "description": "so we dont need to deal with comma for last entry",
+      "message": "Това поле трябва да бъде последното"
+   },
+   "errorCantConnectTo": {
+      "description": "English: Network error: unable to connect to {{url}}",
+      "message": "Неуспешно свързване с {{url}}"
+   },
+   "extName": {
+      "description": "extension name.",
+      "message": "µBlock"
+   },
+   "extShortDesc": {
+      "description": "this will be in the chrome web store: must be 132 characters or less",
+      "message": "Най-накрая, ефективен рекламен блокер за Chromium-базирани браузъри. С малки изисквания за процесор и памет."
+   },
+   "logAllowedRequestsEmpty": {
+      "description": "English: No non-blocked requests logged for this page",
+      "message": "Няма неблокирани заявки, регистрирани за тази страница"
+   },
+   "logAllowedRequestsHeader": {
+      "description": "English: Allowed requests",
+      "message": "Разрешени заявки"
+   },
+   "logBehindTheScene": {
+      "description": "Pretty name for behind-the-scene network requests",
+      "message": "Скрити"
+   },
+   "logBlockedRequestsEmpty": {
+      "description": "English: No blocked requests logged for this page",
+      "message": "Няма блокирани заявки, регистрирани за тази страница"
+   },
+   "logBlockedRequestsHeader": {
+      "description": "English: Blocked requests",
+      "message": "Блокирани заявки"
+   },
+   "logNetRequestsHelp": {
+      "description": "English: see _locales/en/messages.log",
+      "message": "Ако желаете, може да разгледате подробности за мрежовите заявки като включите тази опция. Записването на мрежови заявки увеличава консумацията на памет от µBlock. Тъй като много потребители никога няма да използват тази опция, тя е изключена по подразбиране."
+   },
+   "logNetRequestsPrompt": {
+      "description": "English: Enable the logging of network requests",
+      "message": "Включи записването на мрежови искания в дневника"
+   },
+   "logRequestsHeaderDomain": {
+      "description": "English: Domain",
+      "message": "Домейн"
+   },
+   "logRequestsHeaderFilter": {
+      "description": "English: Filter",
+      "message": "Филтър"
+   },
+   "logRequestsHeaderType": {
+      "description": "English: Type",
+      "message": "Тип"
+   },
+   "logRequestsHeaderURL": {
+      "description": "English: URL",
+      "message": "URL АДРЕС"
+   },
+   "pickerContextMenuEntry": {
+      "description": "English: Block element",
+      "message": "Блокирай елемент"
+   },
+   "pickerCosmeticFilters": {
+      "description": "English: Cosmetic filters",
+      "message": "Козметични филтри"
+   },
+   "pickerCosmeticFiltersHint": {
+      "description": "English: Click, Ctrl-click",
+      "message": "Натискане, Ctrl-Натискане"
+   },
+   "pickerCreate": {
+      "description": "English: Create",
+      "message": "Създаване"
+   },
+   "pickerNetFilters": {
+      "description": "English: Net filters",
+      "message": "Мрежови филтри"
+   },
+   "pickerPick": {
+      "description": "English: Pick",
+      "message": "Избери"
+   },
+   "pickerQuit": {
+      "description": "English: Quit",
+      "message": "Изход"
+   },
+   "popup1pScriptRulePrompt": {
+      "description": "",
+      "message": "Одобрени скриптове"
+   },
+   "popup3pFrameRulePrompt": {
+      "description": "",
+      "message": "Неодобрени фреймове"
+   },
+   "popup3pScriptRulePrompt": {
+      "description": "",
+      "message": "Неодобрени скриптове"
+   },
+   "popupBlockedOnThisPagePrompt": {
+      "description": "English: on this page",
+      "message": "на тази страница"
+   },
+   "popupBlockedRequestPrompt": {
+      "description": "English: requests blocked",
+      "message": "блокирани заявки"
+   },
+   "popupBlockedSinceInstallPrompt": {
+      "description": "English: since install",
+      "message": "от инсталацията"
+   },
+   "popupDefault1pFrameDisabled": {
+      "description": "",
+      "message": "Рамки от първи лица са \u003Cb>блокирани\u003C/b> навсякъде по подразбирне"
+   },
+   "popupDefault1pFrameEnabled": {
+      "description": "",
+      "message": "Рамки от първи лица са \u003Cb>позволени\u003C/b> навсякъде по подразбирне"
+   },
+   "popupDefault1pScriptDisabled": {
+      "description": "",
+      "message": "Скриптове от първи лица са \u003Cb>блокирани\u003C/b> навсякъде по подразбирне"
+   },
+   "popupDefault1pScriptEnabled": {
+      "description": "",
+      "message": "Скриптове от първи лица са \u003Cb>позволени\u003C/b> навсякъде по подразбирне"
+   },
+   "popupDefault3pFrameDisabled": {
+      "description": "",
+      "message": "Рамки от трети лица са \u003Cb>блокирани\u003C/b> навсякъде по подразбирне"
+   },
+   "popupDefault3pFrameEnabled": {
+      "description": "",
+      "message": "Рамки от трети лица са \u003Cb>позволени\u003C/b> навсякъде по подразбирне"
+   },
+   "popupDefault3pScriptDisabled": {
+      "description": "",
+      "message": "Скриптове от трети лица са \u003Cb>блокирани\u003C/b> навсякъде по подразбирне"
+   },
+   "popupDefault3pScriptEnabled": {
+      "description": "",
+      "message": "Скриптове от трети лица са \u003Cb>позволени\u003C/b> навсякъде по подразбирне"
+   },
+   "popupDefaultInlineScriptDisabled": {
+      "description": "",
+      "message": "Вмъкнати \u003Ccode>script\u003C/code> тагове са \u003Cb>блокирани\u003C/b> навсякъде, по подразбиране"
+   },
+   "popupDefaultInlineScriptEnabled": {
+      "description": "",
+      "message": "Вмъкнати \u003Ccode>script\u003C/code> тагове са \u003Cb>позволени\u003C/b> навсякъде, по подразбиране"
+   },
+   "popupHitDomainCountPrompt": {
+      "description": "appear in dynamic filtering pane",
+      "message": "Свързан с {{count}} различни домейн(а) от общо {{total}}"
+   },
+   "popupImageRulePrompt": {
+      "description": "",
+      "message": "Изображения"
+   },
+   "popupInlineScriptRulePrompt": {
+      "description": "",
+      "message": "вградени скриптове"
+   },
+   "popupOr": {
+      "description": "English: or",
+      "message": "или"
+   },
+   "popupPowerSwitchInfo": {
+      "description": "English: Click: disable/enable µBlock for this site.\n\nCtrl+click: disable µBlock only on this page.",
+      "message": "Натисни: забрани/разреши µBlock за този сайт.\n\nCtrl+Натисни: забрани µBlock само за тази страница."
+   },
+   "popupSite1pFrameDisabled": {
+      "description": "",
+      "message": "Рамки от първи лица са \u003Cb>блокирани\u003C/b> за този сайт"
+   },
+   "popupSite1pFrameEnabled": {
+      "description": "",
+      "message": "Рамки от първи лица са \u003Cb>позволени\u003C/b> за този сайт"
+   },
+   "popupSite1pScriptDisabled": {
+      "description": "",
+      "message": "Доверените скриптове са \u003Cb>забранени\u003C/b> за този сайт"
+   },
+   "popupSite1pScriptEnabled": {
+      "description": "",
+      "message": "Доверените скриптове са \u003Cb>позволени\u003C/b> за този сайт"
+   },
+   "popupSite3pFrameDisabled": {
+      "description": "",
+      "message": "Рамки от трети лица са \u003Cb>блокирани\u003C/b> за този сайт"
+   },
+   "popupSite3pFrameEnabled": {
+      "description": "",
+      "message": "Рамки от трети лица са \u003Cb>позволени\u003C/b> за този сайт"
+   },
+   "popupSite3pScriptDisabled": {
+      "description": "",
+      "message": "Скриптовете от трети лица са \u003Cb>блокирани\u003C/b> за този сайт"
+   },
+   "popupSite3pScriptEnabled": {
+      "description": "",
+      "message": "Скриптовете от трети лица са \u003Cb>позволени\u003C/b> за този сайт"
+   },
+   "popupSiteInlineScriptDisabled": {
+      "description": "",
+      "message": "Вътрешните \u003Ccode>script\u003C/code> таговете са \u003Cb>блокирани\u003C/b> за този сайт"
+   },
+   "popupSiteInlineScriptEnabled": {
+      "description": "",
+      "message": "Вътрешните \u003Ccode>script\u003C/code> таговете са \u003Cb>позволени\u003C/b> за този сайт"
+   },
+   "popupTipDashboard": {
+      "description": "English: Click to open the dashboard",
+      "message": "Натисни за да отвориш таблото"
+   },
+   "popupTipLog": {
+      "description": "English: Go to request log",
+      "message": "Виж история за заявките"
+   },
+   "popupTipPicker": {
+      "description": "English: Enter element picker mode",
+      "message": "Режим за избираме на отделен елемент"
+   },
+   "rulesDefaultFileName": {
+      "description": "default file name to use",
+      "message": "моите-ublock-динамични-правила_{{datetime}}.txt"
+   },
+   "rulesEdit": {
+      "description": "Will enable manual-edit mode (textarea)",
+      "message": "Редактиране"
+   },
+   "rulesEditDiscard": {
+      "description": "Will discard manually-edited content and exit manual-edit mode",
+      "message": "Откажи промените"
+   },
+   "rulesEditSave": {
+      "description": "Will save manually-edited content and exit manual-edit mode",
+      "message": "Съхрани"
+   },
+   "rulesExport": {
+      "description": "",
+      "message": "Експортиране във файл..."
+   },
+   "rulesFormatHint": {
+      "description": "English: dynamic rule syntax and full documentation.",
+      "message": "Синтаксис на правилото: \u003Ccode>източник цел тип действие\u003C/code> (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-rule-syntax'>пълна документация\u003C/a>)."
+   },
+   "rulesHint": {
+      "description": "English: List of your dynamic filtering rules.",
+      "message": "Списък на вашите динамични правила за филтриране."
+   },
+   "rulesImport": {
+      "description": "",
+      "message": "Импортиране от файл..."
+   },
+   "rulesPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Мойте правила"
+   },
+   "settingsAdvancedUserPrompt": {
+      "description": "English: ",
+      "message": "Аз съм опитен потребител (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>Допълнително четиво\u003C/a>)"
+   },
+   "settingsCollapseBlockedPrompt": {
+      "description": "English: Hide placeholders of blocked elements",
+      "message": "Скрий подсказващите текстове на блокираните елементи"
+   },
+   "settingsContextMenuPrompt": {
+      "description": "English: Make use of context menu where appropriate",
+      "message": "Използвайте контекстното меню, когато е възможно"
+   },
+   "settingsExperimentalPrompt": {
+      "description": "English: Enable experimental features",
+      "message": "Разрешаване на експериментални функции (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Experimental-features'> за\u003C/a>)"
+   },
+   "settingsIconBadgePrompt": {
+      "description": "English: Show the number of blocked requests on the icon",
+      "message": "Покажи броят блокирани заявки в иконката"
+   },
+   "settingsPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Настройки"
+   },
+   "statsPageName": {
+      "description": "Title for the network request log window",
+      "message": "µBlock — дневник на мрежовите заявки"
+   },
+   "whitelistApply": {
+      "description": "English: Apply changes",
+      "message": "Приложи промените"
+   },
+   "whitelistExport": {
+      "description": "English: Export",
+      "message": "Експортиране"
+   },
+   "whitelistExportFilename": {
+      "description": "English: my-ublock-whitelist_{{datetime}}.txt",
+      "message": "моят-ublock-списък-с-желания_{{datetime}}.txt"
+   },
+   "whitelistImport": {
+      "description": "English: Import and append",
+      "message": "Импортиране и добавяне"
+   },
+   "whitelistPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Списък с изключения"
+   },
+   "whitelistPrompt": {
+      "description": "English: Your list of host names for which µBlock will be disabled. One host name per line. Invalid host names will be silently ignored.",
+      "message": "Вашата листа с хост имена, за които µBlock ще бъде изключен. Едно име на ред. Невалидни хост имена ще бъдат безшумно игнорирани."
+   }
+}

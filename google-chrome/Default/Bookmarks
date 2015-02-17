@@ -1,0 +1,72 @@
+{
+   "checksum": "20ed4572164cc7475502d6aedaac287b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13063498021157387",
+            "id": "5",
+            "name": "Getting \"VPN Unlimited\" to work (Page 1) / Applications & Desktop Environments / Arch Linux Forums",
+            "type": "url",
+            "url": "https://bbs.archlinux.org/viewtopic.php?id=190589"
+         }, {
+            "date_added": "13063599517582343",
+            "id": "7",
+            "name": "Javascript Key Event Tester",
+            "type": "url",
+            "url": "http://unixpapa.com/js/testkey.html"
+         }, {
+            "date_added": "13063859536664973",
+            "id": "9",
+            "name": "MTP - ArchWiki",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/index.php/MTP"
+         }, {
+            "date_added": "13063939354254897",
+            "id": "11",
+            "name": "Display Power Management Signaling - ArchWiki",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/index.php/DPMS"
+         }, {
+            "date_added": "13065269181892206",
+            "id": "13",
+            "name": "Raspberry Pi Pinout - 5v Power",
+            "type": "url",
+            "url": "http://pi.gadgetoid.com/pinout/5v-power"
+         }, {
+            "date_added": "13065323853974191",
+            "id": "14",
+            "name": "Raspberry Pi Pinout - WiringPi",
+            "type": "url",
+            "url": "http://pi.gadgetoid.com/pinout/wiringpi"
+         }, {
+            "date_added": "13066871754065788",
+            "id": "16",
+            "name": "Arch Linux Reddit",
+            "type": "url",
+            "url": "http://www.reddit.com/r/archlinux"
+         } ],
+         "date_added": "13063497475939596",
+         "date_modified": "13066871754065788",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13063497475939617",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13063497475939622",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

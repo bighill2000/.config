@@ -1,0 +1,18 @@
+div > p:first-child {
+    margin-top: 0;
+    }
+div > p:last-child {
+    margin-bottom: 0;
+    }
+#rulesEditor {
+    font-size: small;
+    width: 48em;
+    height: 40em;
+    white-space: pre;
+    text-align: left;
+    }
+code {
+    background-color: #eee;
+    font: 11px monospace;
+    padding: 2px 4px;
+}

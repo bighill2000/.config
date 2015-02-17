@@ -1,0 +1,5 @@
+--output "~/Music/%(title)s.%(ext)s"
+--extract-audio
+--audio-format "mp3"
+--prefer-ffmpeg
+--batch-file "/home/mrglass/mp3-batch.list"

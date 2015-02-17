@@ -1,0 +1,11 @@
+[Default Applications]
+application/x-7z-compressed=7zFM.desktop
+text/plain=google-chrome.desktop
+application/msword=google-chrome.desktop
+application/pdf=google-chrome.desktop
+
+[Added Associations]
+application/x-7z-compressed=7zFM.desktop;
+text/plain=google-chrome.desktop;
+application/msword=google-chrome.desktop;
+application/pdf=google-chrome.desktop;

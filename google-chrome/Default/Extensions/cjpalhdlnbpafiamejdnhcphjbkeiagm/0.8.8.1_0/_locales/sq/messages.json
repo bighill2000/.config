@@ -1,0 +1,506 @@
+{
+  "extName":{
+    "message":"µBlock",
+    "description":"extension name."
+  },
+  "extShortDesc":{
+    "message":"Më në fund, një bllokues efikas që nuk e rëndon procesorin dhe memorjen.",
+    "description":"this will be in the chrome web store: must be 132 characters or less"
+  },
+  "dashboardName":{
+    "message":"µBlock — Pulti i programit",
+    "description":"English: µBlock — Dashboard"
+  },
+  "settingsPageName":{
+    "message":"Parametrat",
+    "description":"appears as tab name in dashboard"
+  },
+  "3pPageName":{
+    "message":"3rd-party filters",
+    "description":"appears as tab name in dashboard"
+  },
+  "1pPageName":{
+    "message":"Filtrat e mi",
+    "description":"appears as tab name in dashboard"
+  },
+  "rulesPageName":{
+    "message":"Rregullat e mia",
+    "description":"appears as tab name in dashboard"
+  },
+  "whitelistPageName":{
+    "message":"Lista e bardhë",
+    "description":"appears as tab name in dashboard"
+  },
+  "statsPageName":{
+    "message":"µBlock — Ditari i kërkesave të rrjetit",
+    "description":"Title for the network request log window"
+  },
+  "aboutPageName":{
+    "message":"Info",
+    "description":"appears as tab name in dashboard"
+  },
+  "popupPowerSwitchInfo":{
+    "message":"Click: disable\/enable µBlock for this site.\n\nCtrl+click: disable µBlock only on this page.",
+    "description":"English: Click: disable\/enable µBlock for this site.\n\nCtrl+click: disable µBlock only on this page."
+  },
+  "popupBlockedRequestPrompt":{
+    "message":"kërkesa të bllokuara",
+    "description":"English: requests blocked"
+  },
+  "popupBlockedOnThisPagePrompt":{
+    "message":"te kjo faqja",
+    "description":"English: on this page"
+  },
+  "popupBlockedSinceInstallPrompt":{
+    "message":"që prej instalimit",
+    "description":"English: since install"
+  },
+  "popupOr":{
+    "message":"ose",
+    "description":"English: or"
+  },
+  "popupTipDashboard":{
+    "message":"Hapni pultin e programit duket klikuar",
+    "description":"English: Click to open the dashboard"
+  },
+  "popupTipPicker":{
+    "message":"Përzgjedhësi i elementeve",
+    "description":"English: Enter element picker mode"
+  },
+  "popupTipLog":{
+    "message":"Hap ditarin e kërkesave",
+    "description":"English: Go to request log"
+  },
+  "popupSiteInlineScriptEnabled":{
+    "message":"Inline <code>script<\/code> tags are <b>allowed<\/b> on this site",
+    "description":""
+  },
+  "popupSiteInlineScriptDisabled":{
+    "message":"Inline <code>script<\/code> tags are <b>blocked<\/b> on this site",
+    "description":""
+  },
+  "popupSite1pScriptEnabled":{
+    "message":"1st-party scripts are <b>allowed<\/b> on this site",
+    "description":""
+  },
+  "popupSite1pScriptDisabled":{
+    "message":"1st-party scripts are <b>blocked<\/b> on this site",
+    "description":""
+  },
+  "popupSite3pScriptEnabled":{
+    "message":"3rd-party scripts are <b>allowed<\/b> on this site",
+    "description":""
+  },
+  "popupSite3pScriptDisabled":{
+    "message":"3rd-party scripts are <b>blocked<\/b> on this site",
+    "description":""
+  },
+  "popupSite1pFrameEnabled":{
+    "message":"1st-party frames are <b>allowed<\/b> on this site",
+    "description":""
+  },
+  "popupSite1pFrameDisabled":{
+    "message":"1st-party frames are <b>blocked<\/b> on this site",
+    "description":""
+  },
+  "popupSite3pFrameEnabled":{
+    "message":"3rd-party frames are <b>allowed<\/b> on this site",
+    "description":""
+  },
+  "popupSite3pFrameDisabled":{
+    "message":"3rd-party frames are <b>blocked<\/b> on this site",
+    "description":""
+  },
+  "popupDefaultInlineScriptEnabled":{
+    "message":"Inline <code>script<\/code> tags are <b>allowed<\/b> everywhere by default",
+    "description":""
+  },
+  "popupDefaultInlineScriptDisabled":{
+    "message":"Inline <code>script<\/code> tags are <b>blocked<\/b> everywhere by default",
+    "description":""
+  },
+  "popupDefault1pScriptEnabled":{
+    "message":"1st-party scripts are <b>allowed<\/b> everywhere by default",
+    "description":""
+  },
+  "popupDefault1pScriptDisabled":{
+    "message":"1st-party scripts are <b>blocked<\/b> everywhere by default",
+    "description":""
+  },
+  "popupDefault3pScriptEnabled":{
+    "message":"3rd-party scripts are <b>allowed<\/b> everywhere by default",
+    "description":""
+  },
+  "popupDefault3pScriptDisabled":{
+    "message":"3rd-party scripts are <b>blocked<\/b> everywhere by default",
+    "description":""
+  },
+  "popupDefault1pFrameEnabled":{
+    "message":"1st-party frames are <b>allowed<\/b> everywhere by default",
+    "description":""
+  },
+  "popupDefault1pFrameDisabled":{
+    "message":"1st-party frames are <b>blocked<\/b> everywhere by default",
+    "description":""
+  },
+  "popupDefault3pFrameEnabled":{
+    "message":"3rd-party frames are <b>allowed<\/b> everywhere by default",
+    "description":""
+  },
+  "popupDefault3pFrameDisabled":{
+    "message":"3rd-party frames are <b>blocked<\/b> everywhere by default",
+    "description":""
+  },
+  "popupAnyRulePrompt":{
+    "message":"të gjitha",
+    "description":""
+  },
+  "popupImageRulePrompt":{
+    "message":"figurat",
+    "description":""
+  },
+  "popup3pAnyRulePrompt":{
+    "message":"3rd-party",
+    "description":""
+  },
+  "popupInlineScriptRulePrompt":{
+    "message":"skriptet e integruara",
+    "description":""
+  },
+  "popup1pScriptRulePrompt":{
+    "message":"1st-party scripts",
+    "description":""
+  },
+  "popup3pScriptRulePrompt":{
+    "message":"3rd-party scripts",
+    "description":""
+  },
+  "popup3pFrameRulePrompt":{
+    "message":"3rd-party frames",
+    "description":""
+  },
+  "popupHitDomainCountPrompt":{
+    "message":"domene të kontaktuara",
+    "description":"appears in popup"
+  },
+  "popupHitDomainCount":{
+    "message":"{{count}} nga {{total}}",
+    "description":"appears in popup"
+  },
+  "pickerCreate":{
+    "message":"Krijoj",
+    "description":"English: Create"
+  },
+  "pickerPick":{
+    "message":"Përzgjedh",
+    "description":"English: Pick"
+  },
+  "pickerQuit":{
+    "message":"Mbyll",
+    "description":"English: Quit"
+  },
+  "pickerNetFilters":{
+    "message":"Filtrat e rrjetit",
+    "description":"English: Net filters"
+  },
+  "pickerCosmeticFilters":{
+    "message":"Filtrat kozmetikë",
+    "description":"English: Cosmetic filters"
+  },
+  "pickerCosmeticFiltersHint":{
+    "message":"Klikoj, Ctrl-klikim",
+    "description":"English: Click, Ctrl-click"
+  },
+  "pickerContextMenuEntry":{
+    "message":"Bllokoj elementin",
+    "description":"English: Block element"
+  },
+  "settingsCollapseBlockedPrompt":{
+    "message":"Fsheh simbolet e elementeve të bllokuara",
+    "description":"English: Hide placeholders of blocked elements"
+  },
+  "settingsIconBadgePrompt":{
+    "message":"Tregoj te ikona numrin e kërkesave që janë bllokuar",
+    "description":"English: Show the number of blocked requests on the icon"
+  },
+  "settingsContextMenuPrompt":{
+    "message":"Përdor menynë kontekstuale kur duhet",
+    "description":"English: Make use of context menu where appropriate"
+  },
+  "settingsAdvancedUserPrompt":{
+    "message":"I am an advanced user (<a href='https:\/\/github.com\/gorhill\/uBlock\/wiki\/Advanced-user-features'>Required reading<\/a>)",
+    "description":"English: "
+  },
+  "settingsExperimentalPrompt":{
+    "message":"Aktivizoj veçoritë eksperimentale (<a href='https:\/\/github.com\/gorhill\/uBlock\/wiki\/Experimental-features'>Info<\/a>)",
+    "description":"English: Enable experimental features"
+  },
+  "3pListsOfBlockedHostsPrompt":{
+    "message":"{{netFilterCount}} network filters ＋ {{cosmeticFilterCount}} cosmetic filters from:",
+    "description":"English: {{netFilterCount}} network filters ＋ {{cosmeticFilterCount}} cosmetic filters from:"
+  },
+  "3pListsOfBlockedHostsPerListStats":{
+    "message":"{{used}} used out of {{total}}",
+    "description":"English: {{used}} used out of {{total}}"
+  },
+  "3pAutoUpdatePrompt1":{
+    "message":"Përditësoj filtrat automatikisht.",
+    "description":"English: Auto-update filter lists."
+  },
+  "3pUpdateNow":{
+    "message":"Përditësoj tani",
+    "description":"English: Update now"
+  },
+  "3pPurgeAll":{
+    "message":"Purge all caches",
+    "description":"English: Purge all caches"
+  },
+  "3pParseAllABPHideFiltersPrompt1":{
+    "message":"Parse and enforce cosmetic filters.",
+    "description":"English: Parse and enforce Adblock+ element hiding filters."
+  },
+  "3pParseAllABPHideFiltersInfo":{
+    "message":"<p>This option enables the parsing and enforcing of <a href=\"https:\/\/adblockplus.org\/en\/faq_internal#elemhide\">Adblock Plus-compatible &ldquo;element hiding&rdquo; filters<\/a>. These filters are essentially cosmetic, they serve to hide elements in a web page which are deemed to be a visual nuisance, and which can't be blocked by the net request-based filtering engine.<\/p><p>Enabling this feature increases <i>µBlock<\/i>'s memory footprint.<\/p>",
+    "description":"English: see English messages.json"
+  },
+  "3pListsOfBlockedHostsHeader":{
+    "message":"Lists of blocked hosts",
+    "description":"English: Lists of blocked hosts"
+  },
+  "3pApplyChanges":{
+    "message":"Ruaj ndryshimet",
+    "description":"English: Apply changes"
+  },
+  "3pGroupAds":{
+    "message":"Reklamat",
+    "description":"English: Ads"
+  },
+  "3pGroupPrivacy":{
+    "message":"Sfera private",
+    "description":"English: Privacy"
+  },
+  "3pGroupMalware":{
+    "message":"Malware domains",
+    "description":"English: Malware domains"
+  },
+  "3pGroupSocial":{
+    "message":"Rrjetet sociale",
+    "description":"English: Social"
+  },
+  "3pGroupMultipurpose":{
+    "message":"Për qëllime të ndryshme",
+    "description":"English: Multipurpose"
+  },
+  "3pGroupRegions":{
+    "message":"Rajonet, gjuhët",
+    "description":"English: Regions, languages"
+  },
+  "3pGroupCustom":{
+    "message":"Personalizoj",
+    "description":"English: Custom"
+  },
+  "3pExternalListsHint":{
+    "message":"One URL per line. Lines prefixed with &lsquo;!&rsquo; will be ignored. Invalid URLs will be silently ignored.",
+    "description":"English: One URL per line. Lines prefixed with &lsquo;!&rsquo; will be ignored. Invalid URLs will be silently ignored."
+  },
+  "3pExternalListsApply":{
+    "message":"Analizoj",
+    "description":"English: Parse"
+  },
+  "3pExternalListPurge":{
+    "message":"purge cache",
+    "description":"English: purge cache"
+  },
+  "3pExternalListNew":{
+    "message":"ka dalë versioni i ri",
+    "description":"English: new version available"
+  },
+  "3pExternalListObsolete":{
+    "message":"e vjetër",
+    "description":"English: outdated"
+  },
+  "1pFormatHint":{
+    "message":"One filter per line. A filter can be a plain hostname, or an Adblock Plus-compatible filter. Lines prefixed with &lsquo;!&rsquo; will be ignored.",
+    "description":"English: One filter per line. A filter can be a plain hostname, or an Adblock Plus-compatible filter. Lines prefixed with &lsquo;!&rsquo; will be ignored."
+  },
+  "1pImport":{
+    "message":"Importoj dhe shtoj",
+    "description":"English: Import and append"
+  },
+  "1pExport":{
+    "message":"Eksportoj",
+    "description":"English: Export"
+  },
+  "1pExportFilename":{
+    "message":"my-ublock-static-filters_{{datetime}}.txt",
+    "description":"English: my-ublock-static-filters_{{datetime}}.txt"
+  },
+  "1pApplyChanges":{
+    "message":"Ruaj ndryshimet",
+    "description":"English: Apply changes"
+  },
+  "rulesPermanentHeader":{
+    "message":"Rregulla të përhershme",
+    "description":"header"
+  },
+  "rulesTemporaryHeader":{
+    "message":"Rregulla të përkohshme",
+    "description":"header"
+  },
+  "rulesRevert":{
+    "message":"Revert",
+    "description":"This will remove all temporary rules"
+  },
+  "rulesCommit":{
+    "message":"Aplikoj",
+    "description":"This will persist temporary rules"
+  },
+  "rulesEdit":{
+    "message":"Modifikoj",
+    "description":"Will enable manual-edit mode (textarea)"
+  },
+  "rulesEditSave":{
+    "message":"Ruaj",
+    "description":"Will save manually-edited content and exit manual-edit mode"
+  },
+  "rulesEditDiscard":{
+    "message":"Anuloj",
+    "description":"Will discard manually-edited content and exit manual-edit mode"
+  },
+  "rulesImport":{
+    "message":"Importoj nga një skedë...",
+    "description":""
+  },
+  "rulesExport":{
+    "message":"Eksportoj në një skedë",
+    "description":""
+  },
+  "rulesDefaultFileName":{
+    "message":"my-ublock-dynamic-rules_{{datetime}}.txt",
+    "description":"default file name to use"
+  },
+  "rulesHint":{
+    "message":"List of your dynamic filtering rules.",
+    "description":"English: List of your dynamic filtering rules."
+  },
+  "rulesFormatHint":{
+    "message":"Rule syntax: <code>source destination type action<\/code> (<a href='https:\/\/github.com\/gorhill\/uBlock\/wiki\/Dynamic-filtering:-rule-syntax'>full documentation<\/a>).",
+    "description":"English: dynamic rule syntax and full documentation."
+  },
+  "whitelistPrompt":{
+    "message":"Your list of host names for which µBlock will be disabled. One entry per line. Invalid host names will be silently ignored.",
+    "description":"English: Your list of host names for which µBlock will be disabled. One host name per line. Invalid host names will be silently ignored."
+  },
+  "whitelistImport":{
+    "message":"Importoj dhe shtoj",
+    "description":"English: Import and append"
+  },
+  "whitelistExport":{
+    "message":"Eksportoj",
+    "description":"English: Export"
+  },
+  "whitelistExportFilename":{
+    "message":"my-ublock-whitelist_{{datetime}}.txt",
+    "description":"English: my-ublock-whitelist_{{datetime}}.txt"
+  },
+  "whitelistApply":{
+    "message":"Ruaj ndryshimet",
+    "description":"English: Apply changes"
+  },
+  "logNetRequestsPrompt":{
+    "message":"Mbaj shënime për kërkesat e rrjetit",
+    "description":"English: Enable the logging of network requests"
+  },
+  "logNetRequestsHelp":{
+    "message":"You can inspect the details of network requests if you wish by enabling this option. The logging of network requests increases the memory footprint of µBlock. Since many users will never use this feature, it is disabled by default.",
+    "description":"English: see _locales\/en\/messages.log"
+  },
+  "logBlockedRequestsHeader":{
+    "message":"Kërkesa të bllokuara",
+    "description":"English: Blocked requests"
+  },
+  "logAllowedRequestsHeader":{
+    "message":"Kërkesa të lejuara",
+    "description":"English: Allowed requests"
+  },
+  "logRequestsHeaderType":{
+    "message":"Lloji",
+    "description":"English: Type"
+  },
+  "logRequestsHeaderDomain":{
+    "message":"Domeni",
+    "description":"English: Domain"
+  },
+  "logRequestsHeaderURL":{
+    "message":"URL",
+    "description":"English: URL"
+  },
+  "logRequestsHeaderFilter":{
+    "message":"Filtri",
+    "description":"English: Filter"
+  },
+  "logBlockedRequestsEmpty":{
+    "message":"Për këtë faqe nuk raportohet asnjë kërkesë e bllokuar",
+    "description":"English: No blocked requests logged for this page"
+  },
+  "logAllowedRequestsEmpty":{
+    "message":"Për këtë faqe nuk raportohet asnjë kërkesë e pabllokuar",
+    "description":"English: No non-blocked requests logged for this page"
+  },
+  "logBehindTheScene":{
+    "message":"Në prapaskenë",
+    "description":"Pretty name for behind-the-scene network requests"
+  },
+  "aboutChangelog":{
+    "message":"Ditari i ndryshimeve",
+    "description":"English: Change log"
+  },
+  "aboutWiki":{
+    "message":"Dokumentimi",
+    "description":"English: project' wiki on Github"
+  },
+  "aboutCode":{
+    "message":"Source code (GPLv3)",
+    "description":"English: Source code (GPLv3)"
+  },
+  "aboutContributors":{
+    "message":"Kontributorët",
+    "description":"English: Contributors"
+  },
+  "aboutBackupDataButton":{
+    "message":"Kopjoj në skedë",
+    "description":"English: Backup to file"
+  },
+  "aboutBackupFilename":{
+    "message":"my-ublock-backup_{{datetime}}.txt",
+    "description":"English: my-ublock-backup_{{datetime}}.txt"
+  },
+  "aboutRestoreDataButton":{
+    "message":"Rindërtoj sipas skedës...",
+    "description":"English: Restore from file..."
+  },
+  "aboutResetDataButton":{
+    "message":"Kthej parametrat e mëparshëm...",
+    "description":"English: Reset to default settings..."
+  },
+  "aboutRestoreDataConfirm":{
+    "message":"Të gjithë parametrat do të mbishkruhen me të dhënat e kopjuara më {{time}}, dhe µBlock do të rifillojë.\n\nDo i mbishkruani parametrat aktualë?",
+    "description":"Message asking user to confirm restore"
+  },
+  "aboutRestoreDataError":{
+    "message":"Të dhënat nuk lexohen ose mund të jenë dëmtuar",
+    "description":"Message to display when an error occurred during restore"
+  },
+  "aboutResetDataConfirm":{
+    "message":"Të gjithë parametrat do të fshihen dhe µBlock do të rifillojë.\n\nDo i ktheni parametrat origjinalë?",
+    "description":"Message asking user to confirm reset"
+  },
+  "errorCantConnectTo":{
+    "message":"Nuk arrin të lidhet me {{url}}",
+    "description":"English: Network error: unable to connect to {{url}}"
+  },
+  "dummy":{
+    "message":"This entry must be the last one",
+    "description":"so we dont need to deal with comma for last entry"
+  }
+}

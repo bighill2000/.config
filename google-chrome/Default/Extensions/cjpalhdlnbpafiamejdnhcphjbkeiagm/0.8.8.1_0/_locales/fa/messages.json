@@ -1,0 +1,506 @@
+{
+   "1pApplyChanges": {
+      "description": "English: Apply changes",
+      "message": "اعمال تغییرات"
+   },
+   "1pExport": {
+      "description": "English: Export",
+      "message": "خروجي گرفتن"
+   },
+   "1pExportFilename": {
+      "description": "English: my-ublock-static-filters_{{datetime}}.txt",
+      "message": "my-ublock-static-filters_{{datetime}}.txt"
+   },
+   "1pFormatHint": {
+      "description": "English: One filter per line. A filter can be a plain hostname, or an Adblock Plus-compatible filter. Lines prefixed with &lsquo;!&rsquo; will be ignored.",
+      "message": "یک فیلتر در هر خط. یک فیلتر می تواند آدرس هاست ساده یا فیلتر سازگار با Adblock plus باشد. خطوط با پیشوند &lsquo;!&rsquo; نادیده گرفته می شوند."
+   },
+   "1pImport": {
+      "description": "English: Import and append",
+      "message": "وارد کردن و الحاق"
+   },
+   "1pPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "فیلترهای من"
+   },
+   "3pApplyChanges": {
+      "description": "English: Apply changes",
+      "message": "اعمال تغییرات"
+   },
+   "3pAutoUpdatePrompt1": {
+      "description": "English: Auto-update filter lists.",
+      "message": "بروز رسانی خودکار لیست فیلتر."
+   },
+   "3pExternalListNew": {
+      "description": "English: new version available",
+      "message": "نسخه جدید آماده دریافت"
+   },
+   "3pExternalListObsolete": {
+      "description": "English: outdated",
+      "message": "منقضی شده"
+   },
+   "3pExternalListPurge": {
+      "description": "English: purge cache",
+      "message": "پاکسازی حافظه پنهان"
+   },
+   "3pExternalListsApply": {
+      "description": "English: Parse",
+      "message": "تجزیه"
+   },
+   "3pExternalListsHint": {
+      "description": "English: One URL per line. Lines prefixed with &lsquo;!&rsquo; will be ignored. Invalid URLs will be silently ignored.",
+      "message": "هر آدرس در یک خط. خطوطی با پیشوند &lsquo;!&rsquo; در نظر گرفته نمیشوند. آدرس های نامعتبر نیز در سکوت نادیده گرفته میشوند."
+   },
+   "3pGroupAds": {
+      "description": "English: Ads",
+      "message": "تبلیغات"
+   },
+   "3pGroupCustom": {
+      "description": "English: Custom",
+      "message": "سفارشی"
+   },
+   "3pGroupMalware": {
+      "description": "English: Malware domains",
+      "message": "دامنه های مخرب"
+   },
+   "3pGroupMultipurpose": {
+      "description": "English: Multipurpose",
+      "message": "چند منظوره"
+   },
+   "3pGroupPrivacy": {
+      "description": "English: Privacy",
+      "message": "حریم خصوصی"
+   },
+   "3pGroupRegions": {
+      "description": "English: Regions, languages",
+      "message": "مناطق، زبانها"
+   },
+   "3pGroupSocial": {
+      "description": "English: Social",
+      "message": "اجتماعی"
+   },
+   "3pListsOfBlockedHostsHeader": {
+      "description": "English: Lists of blocked hosts",
+      "message": "فهرست میزبان های مسدود شده"
+   },
+   "3pListsOfBlockedHostsPerListStats": {
+      "description": "English: {{used}} used out of {{total}}",
+      "message": "تعداد {{used}} از {{total}} مورد استفاده شده"
+   },
+   "3pListsOfBlockedHostsPrompt": {
+      "description": "English: {{netFilterCount}} network filters ＋ {{cosmeticFilterCount}} cosmetic filters from:",
+      "message": "{{netFilterCount}} فیلتر های شبکه ＋ {{cosmeticFilterCount}} فرم های فیلتر انتخابی:"
+   },
+   "3pPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "فیلتر های خارجی"
+   },
+   "3pParseAllABPHideFiltersInfo": {
+      "description": "English: see English messages.json",
+      "message": "\u003Cp>این گزینه \u003Ca href=\"https://adblockplus.org/en/faq_internal#elemhide\">Adblock Plus-compatible &ldquo;element hiding&rdquo; filters\u003C/a> را  تجزیه و اجرا میکند. این فیلتر ها اساساً فنی هستند،  آنها اشیاء موجود در صفحه وب را که مزاحم تلقی میشوند و با موتور فیلترینگ شبکه قابل بلاک کردن نیستند را حذف میکنند.\u003C/p>\u003Cp>فعال کردن این قابلیت مصرف حافظه ی  \u003Ci>µBlock\u003C/i>را افزایش میدهد.\u003C/p>"
+   },
+   "3pParseAllABPHideFiltersPrompt1": {
+      "description": "English: Parse and enforce Adblock+ element hiding filters.",
+      "message": "تجزیه و اجرای فیلترهای انتخابی."
+   },
+   "3pPurgeAll": {
+      "description": "English: Purge all caches",
+      "message": "پاکسازی تمام انبارها"
+   },
+   "3pUpdateNow": {
+      "description": "English: Update now",
+      "message": "اکنون به روز رسانی شود"
+   },
+   "aboutBackupDataButton": {
+      "description": "English: Backup to file",
+      "message": "پشتیبان گیری در فایل"
+   },
+   "aboutBackupFilename": {
+      "description": "English: my-ublock-backup_{{datetime}}.txt",
+      "message": "my-ublock-backup_{{datetime}}.txt"
+   },
+   "aboutChangelog": {
+      "description": "English: Change log",
+      "message": "تغییرات اخیر"
+   },
+   "aboutCode": {
+      "description": "English: Source code (GPLv3)",
+      "message": "سورس کد  (GPLv3)"
+   },
+   "aboutContributors": {
+      "description": "English: Contributors",
+      "message": "مشارکت کنندگان"
+   },
+   "aboutPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "در باره"
+   },
+   "aboutResetDataButton": {
+      "description": "English: Reset to default settings...",
+      "message": "تنظیم مجدد تنظیمات پیش فرض..."
+   },
+   "aboutResetDataConfirm": {
+      "description": "Message asking user to confirm reset",
+      "message": "تمام تنظیمات شده حذف و µBlock دوباره راه اندازی خواهد شد.\n\nتنظیم مجدد µBlock به تنظیمات کارخانه؟"
+   },
+   "aboutRestoreDataButton": {
+      "description": "English: Restore from file...",
+      "message": "بازیابی از فایل..."
+   },
+   "aboutRestoreDataConfirm": {
+      "description": "Message asking user to confirm restore",
+      "message": "تمام تنظیمات با استفاده از پشتیبان گیری در {{time}}،  رونویسی شده و µBlock مجدد راه اندازی میشود.\n\nتمام تنظیمات موجود با استفاده از داده های پشتیبانی رونویسی شود؟"
+   },
+   "aboutRestoreDataError": {
+      "description": "Message to display when an error occurred during restore",
+      "message": "داده ها نمی تواند خوانده شوند و یا نامعتبر اند"
+   },
+   "aboutWiki": {
+      "description": "English: project' wiki on Github",
+      "message": "ویکی"
+   },
+   "dashboardName": {
+      "description": "English: µBlock — Dashboard",
+      "message": "µBlock — داشبورد"
+   },
+   "dummy": {
+      "description": "so we dont need to deal with comma for last entry",
+      "message": "This entry must be the last one"
+   },
+   "errorCantConnectTo": {
+      "description": "English: Network error: unable to connect to {{url}}",
+      "message": "قادر به اتصال به {{url}}"
+   },
+   "extName": {
+      "description": "extension name.",
+      "message": "µBlock"
+   },
+   "extShortDesc": {
+      "description": "this will be in the chrome web store: must be 132 characters or less",
+      "message": "بالاخره، یک بلاکر کارآمد. کم حجم بر روی پردازنده و حافظه."
+   },
+   "logAllowedRequestsEmpty": {
+      "description": "English: No non-blocked requests logged for this page",
+      "message": "هیچ درخواست غیر-مسدود کننده ای برای این صفحه ثبت نشده"
+   },
+   "logAllowedRequestsHeader": {
+      "description": "English: Allowed requests",
+      "message": "درخواست های مجاز"
+   },
+   "logBehindTheScene": {
+      "description": "Pretty name for behind-the-scene network requests",
+      "message": "پشت صحنه"
+   },
+   "logBlockedRequestsEmpty": {
+      "description": "English: No blocked requests logged for this page",
+      "message": "هیچ درخواست مسدود شده ای برای این صفحه ثبت نشده"
+   },
+   "logBlockedRequestsHeader": {
+      "description": "English: Blocked requests",
+      "message": "درخواست های مسدود شده"
+   },
+   "logNetRequestsHelp": {
+      "description": "English: see _locales/en/messages.log",
+      "message": "اگر می خواهید با فعال کردن این گزینه شما می توانید جزئیات شبکه را بازرسی کنید. لاگ کردن درخواست های شبکه مصرف حافظه های µBlock را افزایش می دهد. از آنجا که بسیاری از کاربران هرگز از این ویژگی استفاده نمیکنند، به طور پیش فرض غیرفعال شده است."
+   },
+   "logNetRequestsPrompt": {
+      "description": "English: Enable the logging of network requests",
+      "message": "فعال کردن لاگ درخواست های شبکه"
+   },
+   "logRequestsHeaderDomain": {
+      "description": "English: Domain",
+      "message": "دامنه"
+   },
+   "logRequestsHeaderFilter": {
+      "description": "English: Filter",
+      "message": "فیلتر"
+   },
+   "logRequestsHeaderType": {
+      "description": "English: Type",
+      "message": "نوع"
+   },
+   "logRequestsHeaderURL": {
+      "description": "English: URL",
+      "message": "آدرس"
+   },
+   "pickerContextMenuEntry": {
+      "description": "English: Block element",
+      "message": "بلاک کردن این شیء"
+   },
+   "pickerCosmeticFilters": {
+      "description": "English: Cosmetic filters",
+      "message": "فیلترهای انتخابی"
+   },
+   "pickerCosmeticFiltersHint": {
+      "description": "English: Click, Ctrl-click",
+      "message": "کلیک، کنترل-کلیک"
+   },
+   "pickerCreate": {
+      "description": "English: Create",
+      "message": "ایجاد"
+   },
+   "pickerNetFilters": {
+      "description": "English: Net filters",
+      "message": "فیلترهای شبکه"
+   },
+   "pickerPick": {
+      "description": "English: Pick",
+      "message": "انتخاب"
+   },
+   "pickerQuit": {
+      "description": "English: Quit",
+      "message": "خروج"
+   },
+   "popup1pScriptRulePrompt": {
+      "description": "",
+      "message": "اسکریپت های 1st-party"
+   },
+   "popup3pAnyRulePrompt": {
+      "description": "",
+      "message": "3rd-party"
+   },
+   "popup3pFrameRulePrompt": {
+      "description": "",
+      "message": "فریم های 3rd-party"
+   },
+   "popup3pScriptRulePrompt": {
+      "description": "",
+      "message": "اسکریپت های 3rd-party"
+   },
+   "popupAnyRulePrompt": {
+      "description": "",
+      "message": "همه"
+   },
+   "popupBlockedOnThisPagePrompt": {
+      "description": "English: on this page",
+      "message": "در این صفحه"
+   },
+   "popupBlockedRequestPrompt": {
+      "description": "English: requests blocked",
+      "message": "درخواست مسدود شده"
+   },
+   "popupBlockedSinceInstallPrompt": {
+      "description": "English: since install",
+      "message": "از زمان نصب"
+   },
+   "popupDefault1pFrameDisabled": {
+      "description": "",
+      "message": "فریم های 1st-party بصورت پیشفرض در همه جا \u003Cb>غیرمجاز\u003C/b> هستند"
+   },
+   "popupDefault1pFrameEnabled": {
+      "description": "",
+      "message": "فریم های 1st-party بصورت پیشفرض در همه جا \u003Cb>مجاز\u003C/b> هستند"
+   },
+   "popupDefault1pScriptDisabled": {
+      "description": "",
+      "message": "اسکریپت های 1st-party بصورت پیشفرض در همه جا \u003Cb>غیرمجاز\u003C/b> هستند"
+   },
+   "popupDefault1pScriptEnabled": {
+      "description": "",
+      "message": "اسکریپت های 1st-party بصورت پیشفرض در همه جا \u003Cb>مجاز\u003C/b> هستند"
+   },
+   "popupDefault3pFrameDisabled": {
+      "description": "",
+      "message": "فریم های 3rd-party بصورت پیشفرض در همه جا \u003Cb>غیرمجاز\u003C/b> هستند"
+   },
+   "popupDefault3pFrameEnabled": {
+      "description": "",
+      "message": "فریم های 3rd-party بصورت پیشفرض در همه جا \u003Cb>مجاز\u003C/b> هستند"
+   },
+   "popupDefault3pScriptDisabled": {
+      "description": "",
+      "message": "اسکریپت های 3rd-party بصورت پیشفرض در همه جا \u003Cb>غیرمجاز\u003C/b> هستند"
+   },
+   "popupDefault3pScriptEnabled": {
+      "description": "",
+      "message": "اسکریپت های 3rd-party بصورت پیشفرض در همه جا \u003Cb>مجاز\u003C/b> هستند"
+   },
+   "popupDefaultInlineScriptDisabled": {
+      "description": "",
+      "message": "تگ های خطی \u003Ccode>اسکریپت\u003C/code> بصورت پیشفرض در همه جا \u003Cb>غیرمجاز\u003C/b> هستند"
+   },
+   "popupDefaultInlineScriptEnabled": {
+      "description": "",
+      "message": "تگ های خطی \u003Ccode>اسکریپت\u003C/code> بصورت پیشفرض در همه جا \u003Cb>مجاز\u003C/b> هستند"
+   },
+   "popupHitDomainCount": {
+      "description": "appears in popup",
+      "message": "تعداد {{count}} از {{total}} تا"
+   },
+   "popupHitDomainCountPrompt": {
+      "description": "appears in popup",
+      "message": "دامنه های دست خورده"
+   },
+   "popupImageRulePrompt": {
+      "description": "",
+      "message": "تصاویر"
+   },
+   "popupInlineScriptRulePrompt": {
+      "description": "",
+      "message": "اسکریپت های درون خطی"
+   },
+   "popupOr": {
+      "description": "English: or",
+      "message": "یا"
+   },
+   "popupPowerSwitchInfo": {
+      "description": "English: Click: disable/enable µBlock for this site.\n\nCtrl+click: disable µBlock only on this page.",
+      "message": "کلیک: غیر فعال/ فعال کردن µBlock برای این سایت.\n\nکنترل+کلیک: غیر فعال کردن µBlock فقط برای همین صفحه."
+   },
+   "popupSite1pFrameDisabled": {
+      "description": "",
+      "message": "فریم های 1st-party در این سایت \u003Cb>غیرمجاز\u003C/b> هستند"
+   },
+   "popupSite1pFrameEnabled": {
+      "description": "",
+      "message": "فریم های 1st-party در این سایت \u003Cb>مجاز\u003C/b> هستند"
+   },
+   "popupSite1pScriptDisabled": {
+      "description": "",
+      "message": "اسکریپت های 1st-party در این سایت \u003Cb>غیرمجاز\u003C/b> هستند"
+   },
+   "popupSite1pScriptEnabled": {
+      "description": "",
+      "message": "اسکریپت های 1st-party در این سایت \u003Cb>مجاز\u003C/b> هستند"
+   },
+   "popupSite3pFrameDisabled": {
+      "description": "",
+      "message": "فریم های 3rd-party در این سایت \u003Cb>غیرمجاز\u003C/b> هستند"
+   },
+   "popupSite3pFrameEnabled": {
+      "description": "",
+      "message": "فریم های 3rd-party در این سایت \u003Cb>مجاز\u003C/b> هستند"
+   },
+   "popupSite3pScriptDisabled": {
+      "description": "",
+      "message": "اسکریپت های 3rd-party در این سایت \u003Cb>غیرمجاز\u003C/b> هستند"
+   },
+   "popupSite3pScriptEnabled": {
+      "description": "",
+      "message": "اسکریپت های 3rd-party در این سایت \u003Cb>مجاز\u003C/b> هستند"
+   },
+   "popupSiteInlineScriptDisabled": {
+      "description": "",
+      "message": "تگ های خطی \u003Ccode>اسکریپت\u003C/code> در این سایت \u003Cb>غیرمجاز\u003C/b> هستند"
+   },
+   "popupSiteInlineScriptEnabled": {
+      "description": "",
+      "message": "تگ های خطی \u003Ccode>اسکریپت\u003C/code> در این سایت \u003Cb>مجاز\u003C/b> هستند"
+   },
+   "popupTipDashboard": {
+      "description": "English: Click to open the dashboard",
+      "message": "برای باز کردن داشبورد کلیک کنید"
+   },
+   "popupTipLog": {
+      "description": "English: Go to request log",
+      "message": "رفتن به لاگ درخواست"
+   },
+   "popupTipPicker": {
+      "description": "English: Enter element picker mode",
+      "message": "ورود به حالت انتخاب اشیاء"
+   },
+   "rulesCommit": {
+      "description": "This will persist temporary rules",
+      "message": "ذخیره در منبع"
+   },
+   "rulesDefaultFileName": {
+      "description": "default file name to use",
+      "message": "my-ublock-dynamic-rules_{{datetime}}.txt"
+   },
+   "rulesEdit": {
+      "description": "Will enable manual-edit mode (textarea)",
+      "message": "ویرایش"
+   },
+   "rulesEditDiscard": {
+      "description": "Will discard manually-edited content and exit manual-edit mode",
+      "message": "لغو"
+   },
+   "rulesEditSave": {
+      "description": "Will save manually-edited content and exit manual-edit mode",
+      "message": "ذخيره"
+   },
+   "rulesExport": {
+      "description": "",
+      "message": "خروجی گرفتن به فایل..."
+   },
+   "rulesFormatHint": {
+      "description": "English: dynamic rule syntax and full documentation.",
+      "message": "نحوه استفاده: \u003Ccode>source destination type action\u003C/code> (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-rule-syntax'>مستندات کامل\u003C/a>)."
+   },
+   "rulesHint": {
+      "description": "English: List of your dynamic filtering rules.",
+      "message": "لیست قوانین فیلترینگ پویای شما."
+   },
+   "rulesImport": {
+      "description": "",
+      "message": "وارد کردن از فایل..."
+   },
+   "rulesPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "قوانین من"
+   },
+   "rulesPermanentHeader": {
+      "description": "header",
+      "message": "قوانین دائمی"
+   },
+   "rulesRevert": {
+      "description": "This will remove all temporary rules",
+      "message": "بازگرداندن"
+   },
+   "rulesTemporaryHeader": {
+      "description": "header",
+      "message": "قوانین موقت"
+   },
+   "settingsAdvancedUserPrompt": {
+      "description": "English: ",
+      "message": "من کاربر حرفه ای هستم (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Advanced-user-features'>لازم است بخوانید\u003C/a>)"
+   },
+   "settingsCollapseBlockedPrompt": {
+      "description": "English: Hide placeholders of blocked elements",
+      "message": "مخفی کردن نگاهدارنده اشیاء بلاک شده"
+   },
+   "settingsContextMenuPrompt": {
+      "description": "English: Make use of context menu where appropriate",
+      "message": "استفاده از منوی متنی در زمانهای لازم"
+   },
+   "settingsExperimentalPrompt": {
+      "description": "English: Enable experimental features",
+      "message": "فعال کردن ویژگی های آزمایشی (\u003Ca href='https://github.com/gorhill/uBlock/wiki/Experimental-features'> درباره\u003C/a>)"
+   },
+   "settingsIconBadgePrompt": {
+      "description": "English: Show the number of blocked requests on the icon",
+      "message": "نمایش تعداد درخواست های بلاک شده بر روی آیکون"
+   },
+   "settingsPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "تنظیمات"
+   },
+   "statsPageName": {
+      "description": "Title for the network request log window",
+      "message": "µBlock — لاگ درخواست های شبکه"
+   },
+   "whitelistApply": {
+      "description": "English: Apply changes",
+      "message": "اعمال تغییرات"
+   },
+   "whitelistExport": {
+      "description": "English: Export",
+      "message": "خروجي گرفتن"
+   },
+   "whitelistExportFilename": {
+      "description": "English: my-ublock-whitelist_{{datetime}}.txt",
+      "message": "my-ublock-whitelist_{{datetime}}.txt"
+   },
+   "whitelistImport": {
+      "description": "English: Import and append",
+      "message": "وارد کردن و الحاق"
+   },
+   "whitelistPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "لیست سپید"
+   },
+   "whitelistPrompt": {
+      "description": "English: Your list of host names for which µBlock will be disabled. One host name per line. Invalid host names will be silently ignored.",
+      "message": "لیستی از هاست هایی که µBlock در آنها غیرفعال خواهد شد. یک مطلب در هر خط. میزبان های نامعتبر در سکوت نادیده گرفته می شوند."
+   }
+}
